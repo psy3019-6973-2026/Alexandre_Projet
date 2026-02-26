@@ -50,10 +50,10 @@ Ma dernière tâche consiste à comparer plusieurs modèles de manière systéma
 
 
 
-<img width="407.6" height="167.6" alt="image" src="https://github.com/user-attachments/assets/09f4104b-3200-4c97-89e5-55e7006db6f6" />
-<img width="407.6" height="167.6" alt="image" src="https://github.com/user-attachments/assets/8e9520b2-bd73-4841-b712-a58d778dd7d7" />
-<img width="407.6" height="167.6" alt="image" src="https://github.com/user-attachments/assets/f1baa2c4-91d8-45c3-9f12-90269ba5a56d" />
-<img width="407.6" height="167.6" alt="image" src="https://github.com/user-attachments/assets/89cf0f43-8c9b-4fad-b52a-31c1bf021096" />
+<img width="407" height="167" alt="image" src="https://github.com/user-attachments/assets/09f4104b-3200-4c97-89e5-55e7006db6f6" />
+<img width="407" height="167" alt="image" src="https://github.com/user-attachments/assets/8e9520b2-bd73-4841-b712-a58d778dd7d7" />
+<img width="407" height="167" alt="image" src="https://github.com/user-attachments/assets/f1baa2c4-91d8-45c3-9f12-90269ba5a56d" />
+<img width="407" height="167" alt="image" src="https://github.com/user-attachments/assets/89cf0f43-8c9b-4fad-b52a-31c1bf021096" />
 
 
 Sous-tâches : 
