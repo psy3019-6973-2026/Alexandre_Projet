@@ -1,0 +1,16 @@
+name : false_memory
+channels:
+ - conda-forge
+dependencies:
+ - datalad
+ - nilearn
+ - jupyter
+ - pybids
+ - nilearn
+ - pandas
+ - numpy
+ - scipy
+ - matplotlib
+ - tqdm
+ - myst-nb
+ - invoke
